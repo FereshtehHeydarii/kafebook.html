@@ -1,0 +1,95 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow: scroll;
+    direction: rtl;
+}
+a{
+    text-decoration-line: none;
+    font-weight: bold;
+    margin: 10px;
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.644);
+}
+a:hover{
+    text-decoration-line: none;
+    color: inherit;
+    color: #2501c4;
+}
+.link-1{
+    display: inline-block;
+    margin-right: 200px;
+}
+.link{
+    margin: 15px;
+    height: 28px 28px;
+}
+.logo{
+    display: inline-block;
+    margin-right: 200px;
+    margin-left: 900px;
+    padding: 20px;
+}
+.logo-1{
+    display: inline-block;
+    margin-right: -690px;
+    background-color: bisque;
+}
+.header{
+    margin-right: 200px;
+    padding: 20px;
+}
+.card{
+margin-top: 20px;
+margin-right: 200px;
+}
+#first{
+    height: 46px;
+    width: 280px;
+    border-radius: 5px;
+    border-color: #08c;
+    background-color: transparent;
+    margin: 10px;
+}
+#second{
+    height: 46px;
+    width: 280px;
+    border-radius: 5px;
+    border-color: #08c;
+    background-color: transparent;
+    margin: 10px;
+}
+#third{
+    height: 46px;
+    width: 280px;
+    border-radius: 5px;
+    border-color: #08c;
+    background-color: transparent;
+    margin: 10px;
+}
+#fourth{
+    height: 46px;
+    width: 280px;
+    border-radius: 5px;
+    border-color: #08c;
+    background-color: transparent;
+    margin: 10px;
+}  
+.part{
+    margin-right: 200px;
+    height: 600px;
+    border: none;
+}
+.part-2{
+    display: inline-block;
+    margin-bottom: 200px;
+    height: 600px;
+    border: none;
+}
+
+
+
+
+
+
+
